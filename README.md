@@ -1,5 +1,6 @@
-# how-to-connect-to-IT-with-an-exeter-account
+# how to connect to IT with an exeter account
 使用exeter的账户连接学校的超算（懒得加页面了，就这么看得了）
+超算远程连接指南
 
 不会空行，后面<作为空行符
 
